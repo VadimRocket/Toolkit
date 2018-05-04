@@ -27,6 +27,10 @@ A lightweight JavaScript library for creating particles  </p>
 <p>A tiny 60+fps parallax tilt hover effect for jQuery.  </p>
 <a href="http://gijsroge.github.io/tilt.js/">Repository</a><br>
 
+<h2>VenoBox</h2>
+<p>Responsive jQuery modal window plugin. Just another responsive jQuery lightbox plugin, suitable for images, inline contents, iFrames, Google Maps, Vimeo and YouTube videos.</p>
+<a href="https://github.com/nicolafranchini/VenoBox">Repository</a><br>
+<a href="http://veno.es/venobox/">Demo</a>
 
 
 <h1>Other</h1>
