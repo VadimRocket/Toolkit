@@ -32,6 +32,10 @@ A lightweight JavaScript library for creating particles  </p>
 <a href="https://github.com/nicolafranchini/VenoBox">Repository</a><br>
 <a href="http://veno.es/venobox/">Demo</a>
 
+<h2>WOW.js</h2>
+<p>Reveal CSS animation as you scroll down a page. By default, you can use it to trigger animate.css animations. But you can easily change the settings to your favorite animation library.</p>
+<a href="https://github.com/matthieua/WOW">Repository</a><br>
+<a href="http://mynameismatthieu.com/WOW/">Demo</a><br>
 
 <h1>Other</h1>
 <h2>Prettier</h2>
