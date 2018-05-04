@@ -23,6 +23,9 @@ A lightweight JavaScript library for creating particles  </p>
 <a href="https://github.com/mattbryson/TouchSwipe-Jquery-Plugin">Repository</a><br>
 <a href="http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html">Site</a>
 
+<h2>tilt.js</h2>
+<p>A tiny 60+fps parallax tilt hover effect for jQuery.  </p>
+<a href="http://gijsroge.github.io/tilt.js/">Repository</a><br>
 
 
 
