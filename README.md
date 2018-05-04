@@ -1,6 +1,6 @@
 # Toolkit
 usefull web tools
-
+<h1>Plugins<h1>
 <h2>Swiper</h2>
 <p>Most modern mobile touch slider with hardware accelerated transitions</p>
 <a href="https://github.com/nolimits4web/swiper">Repository</a><br>
@@ -18,6 +18,10 @@ A lightweight JavaScript library for creating particles  </p>
 <a href="https://github.com/Mango/slideout">Repository</a><br>
 <a href="https://slideout.js.org">Site</a>
 
+<h2>TouchSwipe-Jquery-Plugin</h2>
+<p>TouchSwipe is a jquery plugin to be used with jQuery on touch input devices such as iPad, iPhone etc. </p>
+<a href="https://github.com/mattbryson/TouchSwipe-Jquery-Plugin">Repository</a><br>
+<a href="http://labs.rampinteractive.co.uk/touchSwipe/demos/index.html">Site</a>
 
 
 
