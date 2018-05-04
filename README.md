@@ -13,6 +13,12 @@ A lightweight JavaScript library for creating particles  </p>
 <a href="https://vincentgarreau.com/particles.js/">Site</a>
 
 
+<h2>Slideout.js</h2>
+<p>A touch slideout navigation menu for your mobile web apps. </p>
+<a href="https://github.com/Mango/slideout">Repository</a><br>
+<a href="https://slideout.js.org">Site</a>
+
+
 
 
 
