@@ -6,6 +6,12 @@ usefull web tools
 <a href="https://github.com/nolimits4web/swiper">Repository</a><br>
 <a href="http://idangero.us/swiper/">Site</a>
 
+<h2>particles</h2>
+<p>
+A lightweight JavaScript library for creating particles  </p>
+<a href="https://github.com/VincentGarreau/particles.js">Repository</a><br>
+<a href="https://vincentgarreau.com/particles.js/">Site</a>
+
 
 
 
